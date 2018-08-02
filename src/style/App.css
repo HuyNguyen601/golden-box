@@ -1,0 +1,39 @@
+.App-header {
+  background-color: #99FF00;
+  height: 300px;
+  color: black;
+}
+
+h1,h2,h3,h4{
+  font-family:  Courier New, monospace;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1,h4{
+  color: black;
+}
+
+.content{
+  background-color: white;
+  font-weight: bold;
+  width:80%;
+}
+
+article{
+  width: 400px;
+}
+
+.pricing {
+  background-color: #77dcea;
+}
+
+#contact{
+  color: white;
+}
+.address-search {
+  padding: 50px;
+  width: 600px;
+  text-align: center;
+}
